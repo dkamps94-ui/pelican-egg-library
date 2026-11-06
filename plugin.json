@@ -1,0 +1,19 @@
+{
+    "id": "egg-library",
+    "name": "Egg Library",
+    "author": "Jerox",
+    "version": "1.0.0",
+    "description": "Browse and search the community egg catalog with artwork and install eggs with one click",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "Jerox\\EggLibrary",
+    "class": "EggLibraryPlugin",
+    "panels": [
+        "admin",
+        "app"
+    ],
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
