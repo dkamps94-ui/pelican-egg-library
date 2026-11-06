@@ -5,8 +5,8 @@
     "version": "1.0.0",
     "description": "Browse and search the community egg catalog with artwork and install eggs with one click",
     "category": "plugin",
-    "url": null,
-    "update_url": null,
+    "url": "https://hub.pelican.dev/plugins/egg-library",
+    "update_url": "https://hub.pelican.dev/plugins/egg-library/update.json",
     "namespace": "Jerox\\EggLibrary",
     "class": "EggLibraryPlugin",
     "panels": [
